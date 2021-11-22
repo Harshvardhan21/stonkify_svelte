@@ -1,7 +1,7 @@
 <nav  class ="flex justify-between bg-navblack text-textwhite p-5 font-fam fixed border-b border-grey" style="width:100%" >
     <div class="text-left pl-10 text-4xl font-bold" style="display: inline-block">
     
-        <h1 style="display: inline-block text-white ">STONKIFY .</h1>
+        <a href="/" style="display: inline-block text-white ">STONKIFY .</a>
     </div>
 
     <div class=" pr-10 text-xl">
