@@ -5,6 +5,11 @@
     import Marketdata from "../components/widgets/market-data.svelte"
     import Screener from "../components/widgets/screener.svelte"
 </script>
+<svelte:head>
+    <title>
+        Stonkify: Market
+    </title>
+</svelte:head>
 <div class="px-60 py-10">
 <h1 class="uppercase text-textwhite text-4xl font-fam ">market quotes</h1>
 </div>

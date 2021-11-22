@@ -1,3 +1,9 @@
+<svelte:head>
+    <title>
+        Stonkify: Home
+    </title>
+</svelte:head>
+
 <div class="text-center p-10 ">
 
     <h1 class="font-bold text-white text-7xl justify-center text-center py-16" >Chart. Chat. Trade. Repeat</h1>
