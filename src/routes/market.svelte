@@ -3,6 +3,7 @@
     import Indices from "../components/widgets/indices.svelte"
     import Futures from "../components/widgets/futures.svelte"
     import Marketdata from "../components/widgets/market-data.svelte"
+    import Screener from "../components/widgets/screener.svelte"
 </script>
 <div class="px-60 py-10">
 <h1 class="uppercase text-textwhite text-4xl font-fam ">market quotes</h1>
@@ -21,5 +22,10 @@
     <div class="py-10">
     
         <Marketdata/>
+    </div>
+    <h1 class="uppercase text-textwhite text-4xl font-fam ">market screeenr</h1>
+    <div class="py-10">
+    
+        <Screener/>
     </div>
 </div>
