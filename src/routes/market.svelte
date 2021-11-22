@@ -23,7 +23,7 @@
     
         <Marketdata/>
     </div>
-    <h1 class="uppercase text-textwhite text-4xl font-fam ">market screeenr</h1>
+    <h1 class="uppercase text-textwhite text-4xl font-fam ">market screener</h1>
     <div class="py-10">
     
         <Screener/>
