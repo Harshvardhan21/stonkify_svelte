@@ -1,7 +1,7 @@
 <nav  class ="flex justify-between bg-navblack text-textwhite p-5 font-fam fixed border-b border-grey" style="width:100%" >
     <div class="flex flex-row text-left pl-10 text-4xl font-bold" style="display: inline-block">
     
-        <a href="/" style="display: inline-block text-white "><img src="static/logo.png" class="h-12 pr-1 pb-1" style="display: inline-block" alt="Stonkify Logo">STONKIFY .</a>
+        <a href="/" style="display: inline-block text-white "><img src="logo.png" class="h-12 pr-1 pb-1" style="display: inline-block" alt="Stonkify Logo">STONKIFY .</a>
     </div>
 
     <div class=" pr-10 text-xl">
